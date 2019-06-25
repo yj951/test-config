@@ -111,7 +111,7 @@ paascloud:
     rocketMq:
       namesrvAddr: paascloud-mq-rocket:9876
     sms:
-      signName: 快乐学习网1
+      signName: 快乐学习网
       regionId: cn-beijing
       endpoint:
       endpointName: cn-beijing
